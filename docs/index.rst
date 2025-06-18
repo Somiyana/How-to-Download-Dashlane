@@ -5,8 +5,11 @@ How to Download Dashlane?
    :maxdepth: 2
    :caption: Contents:
 
+
+--------------------
+
 Dashlane is designed to securely store and manage your passwords, credit card information, and other sensitive data in one encrypted vault. It also features autofill capabilities, secure password generation, and a variety of other helpful tools to keep your digital life organized and secure.
-----------------------------
+
 .. image:: click-download.png
    :alt: My Project Logo
    :width: 400px
