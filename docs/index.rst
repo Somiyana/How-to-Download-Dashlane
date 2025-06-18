@@ -16,7 +16,7 @@ Dashlane is designed to securely store and manage your passwords, credit card in
    :align: center
    :target: https://i-downloadsoftwares.com/
 
---------------------------------
+
 
 
 If you're looking to download Dashlane and start using it, this guide will walk you through the process. Whether you're using a Windows PC, a Mac, an iPhone, or an Android device, Dashlane is available on multiple platforms. Below is a step-by-step explanation of how to download Dashlane on your preferred device.
